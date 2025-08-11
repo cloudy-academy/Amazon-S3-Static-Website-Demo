@@ -65,7 +65,7 @@ In this tutorial, you will learn how to create an S3 bucket, upload files to it,
 
 ## 🎥 Tutorial Video
 
-🔗 *The tutorial video link will be added soon.*
+🔗 [YouTube](https://youtu.be/xMxqsT_0ty0)
 
 ---
 
